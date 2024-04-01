@@ -67,7 +67,6 @@ def sign_up_window():
 
     window.mainloop()
 
-# Main function
 if __name__ == "__main__":
     create_table()
     sign_up_window()
